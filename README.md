@@ -1,6 +1,8 @@
-# I am Rahul Kant Pal
+<img src="https://i.imgur.com/4vC1WXQ.png" alt="Banner" width="100%" />
 
-Either a null stack developer or a fool stack developer
+                                                                         # I am Rahul Kant Pal
+
+                                                          Either a null stack developer or a fool stack developer
 
 
 <!--
