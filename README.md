@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RAHULKANTPAL)
 
-🌱 Currently working on: [Full stack ]
+🌱 Currently working on: Full stack 
 
 👯 I’m looking to collaborate on Full Stack and Machine Learning
 
@@ -38,14 +38,6 @@
 
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULKANTPAL&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHULKANTPAL&theme=dark)
-
-
-## **🏆 GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=RAHULKANTPAL&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 
 <!--
